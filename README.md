@@ -5,7 +5,7 @@
 
 * Email: rager1222@gmail.com
 * Location: Taoyuan, Taiwan
-
+* Mobile: 0921392925
 ## Education
 
 * **FU-JEN University** (Expected Graduation: 2025)  * Major: (Computer engineering)
