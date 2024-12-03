@@ -8,8 +8,9 @@
 
 ## Education
 
-* **FU-JEN University** (Expected Graduation: 2025)  * Major: (Computer engineering) ## C、C++、C#、Python、Java  * Languages: Mandarin Chinese (Native), English (Intermediate), Japanese(Beginner)
-* Software:Powerpoint、Excel、Unity  * Other Skills:  **Optional Sections (Add these if applicable):**
+* **FU-JEN University** (Expected Graduation: 2025)  * Major: (Computer engineering)
+* Languages: Mandarin Chinese (Native), English (Intermediate), Japanese(Beginner)
+* Software:C、C++、C#、Python、Java、Powerpoint、Excel、Unity  * Other Skills:  **Optional Sections (Add these if applicable):**
 
 ## Work Experience
 
